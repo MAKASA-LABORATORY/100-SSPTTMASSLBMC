@@ -6,7 +6,7 @@ TITLE:
 SMART STEP: POSITIVE TECHNOLOGY THROUGH MOTION-ACTIVATED STAIRWAY SAFETY LIGHTS
 
 PROJECT VIDEO:
-//WILL UPDATE
+https://youtu.be/gZXRLiUdMVQ
 
 TINKER CAD SIMULATION:
-//WILL UPDATE
+https://www.tinkercad.com/things/hnVmt8T5qVU-copy-of-schematic-diagram-to-tinkercad/editel?sharecode=5cGwMRlLG57WQydGW3-WlKfaDal8W6kaM6OEeZSx-Yw
